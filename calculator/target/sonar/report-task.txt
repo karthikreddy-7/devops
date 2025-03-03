@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://studious-dollop-5gg779q4w65f4rwp-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://studious-dollop-5gg779q4w65f4rwp-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=55c508b4-a270-4250-be51-973212ac27eb
+ceTaskUrl=https://studious-dollop-5gg779q4w65f4rwp-9000.app.github.dev/api/ce/task?id=55c508b4-a270-4250-be51-973212ac27eb
